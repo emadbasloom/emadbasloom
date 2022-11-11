@@ -1,4 +1,9 @@
 
+<div align='center'>
+
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
 <h1 align="center">Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm EmadBasloom </h1>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <h3 align="center">I am a Saudi software developer and front interface developer focused on formulating clean and easy-to-use experiences, and I am excited to build excellent software that improves the lives of those around me</h3>
