@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-13217
-Fork on GitHub
-3448
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm EmadBasloom</h1>
 <h3 align="center">I am a Saudi software developer and front interface developer focused on formulating clean and easy-to-use experiences, and I am excited to build excellent software that improves the lives of those around me</h3>
 
