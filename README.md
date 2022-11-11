@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm EmadBasloom</h1>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <h3 align="center">I am a Saudi software developer and front interface developer focused on formulating clean and easy-to-use experiences, and I am excited to build excellent software that improves the lives of those around me</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/emadbasloom?tab=repositories](https://github.com/emadbasloom?tab=repositories)
